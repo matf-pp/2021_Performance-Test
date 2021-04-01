@@ -31,7 +31,7 @@ Project is set to be finished on 5.5.2021 . That gives us about 6 weeks to compl
     
 2. Week (29.3.2021 - 4.4.2021)
     - Defining application goals
-    - Setting goal for next two weeks
+    - Setting goal for next week
 3. Week (5.4.2021 - 11.4.2021)
     - TODO
 4. Week (12.4.2021 - 18.4.2021)
