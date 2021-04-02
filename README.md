@@ -33,7 +33,8 @@ Project is set to be finished on 5.5.2021 . That gives us about 6 weeks to compl
     - Defining application goals
     - Setting goal for next week
 3. Week (5.4.2021 - 11.4.2021)
-    - TODO
+    - Single function that processes list of requests
+    - Project setup
 4. Week (12.4.2021 - 18.4.2021)
     - TODO
 5. Week (19.4.2021 - 25.4.2021)
